@@ -1,0 +1,9 @@
+C:\codes\C#\WINFORMS\MyScreenSaver\bin\Debug\MyScreenSaver.exe.config
+C:\codes\C#\WINFORMS\MyScreenSaver\bin\Debug\MyScreenSaver.exe
+C:\codes\C#\WINFORMS\MyScreenSaver\bin\Debug\MyScreenSaver.pdb
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.Properties.Resources.resources
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.ScreenSaverForm.resources
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.SettingsForm.resources
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.GenerateResource.cache
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.exe
+C:\codes\C#\WINFORMS\MyScreenSaver\obj\Debug\MyScreenSaver.pdb
